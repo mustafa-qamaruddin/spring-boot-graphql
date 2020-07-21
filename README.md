@@ -16,4 +16,4 @@ http://localhost:8080/graphql
 }
 ```
 
-<img src="images/1.png" align=center" />
+!()["images/1.png"]
