@@ -16,4 +16,4 @@ http://localhost:8080/graphql
 }
 ```
 
-![]("./images/1.png")
+![]("/images/1.png")
