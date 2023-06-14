@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<guava.version>29.0-jre</guava.version>
+		<guava.version>32.0.0-jre</guava.version>
 		<graphql.version>11.0</graphql.version>
 		<spring.boot.graphql.version>1.0</spring.boot.graphql.version>
 	</properties>
